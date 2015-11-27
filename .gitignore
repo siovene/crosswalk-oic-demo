@@ -2,3 +2,10 @@
 *.apk
 /crosswalk-*.zip
 /crosswalk-oic-extension
+
+/org.crosswalk.demo.oic/prj/android/bin/
+/org.crosswalk.demo.oic/prj/android/gen/
+/org.crosswalk.demo.oic/prj/android/libs/x86/
+/org.crosswalk.demo.oic/prj/android/res/mipmap-hdpi/
+/org.crosswalk.demo.oic/prj/android/xwalk_core_library/bin/
+/org.crosswalk.demo.oic/prj/android/xwalk_core_library/gen/
